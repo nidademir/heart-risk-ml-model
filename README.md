@@ -5,18 +5,6 @@ Kullanılan veri seti, [Heart Disease UCI Dataset](https://www.kaggle.com/datase
 
 ---
 
-## 📁 İçerik
-
-- [Amaç](#amaç)
-- [Veri Seti Hakkında](#veri-seti-hakkında)
-- [Veri Ön İşleme](#veri-ön-işleme)
-- [Modelleme](#modelleme)
-- [Başarı Metrikleri](#başarı-metrikleri)
-- [Sonuçlar ve Yorumlar](#sonuçlar-ve-yorumlar)
-- [Kullanılan Kütüphaneler](#kullanılan-kütüphaneler)
-
----
-
 ## 🎯 Amaç
 
 Bu projenin amacı, bireyin sağlık verilerine göre **kalp hastalığı riski taşıyıp taşımadığını (0 = yok, 1 = var)** tahmin etmektir.
@@ -25,7 +13,6 @@ Bu projenin amacı, bireyin sağlık verilerine göre **kalp hastalığı riski 
 
 ## 📊 Veri Seti Hakkında
 
-- **Kaynak:** [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 - Toplam 14+ sütun içerir.
 - Demografik, klinik ve efor testi verileri içerir.
 - Orijinal `num` sütunu 0-4 arasında sınıflandırma içeriyordu. Bu proje kapsamında, ikili sınıfa dönüştürüldü:  
@@ -82,11 +69,6 @@ Random Forest, her metrikte daha başarılı sonuç vermiştir.
 - `scikit-learn`
 
 ---
-
-## 📌 Not
-
-Bu proje, [Patika.dev](https://academy.patika.dev/) kapsamında gerçekleştirilmiştir.  
-Proje Jupyter Notebook üzerinden yürütülmüş ve veri bilimi pipeline’ının tüm adımları uygulanmıştır.
 
 ---
 
