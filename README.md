@@ -1,4 +1,4 @@
-# ❤️ Heart Risk ML Model
+# Heart Risk ML Model
 
 Bu proje, bireylerde kalp hastalığı riski olup olmadığını tahmin eden bir **makine öğrenmesi sınıflandırma modelidir**.  
 Kullanılan veri seti, [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data) adlı açık bir veri setidir.
@@ -69,6 +69,3 @@ Random Forest, her metrikte daha başarılı sonuç vermiştir.
 - `scikit-learn`
 
 ---
-
----
-
